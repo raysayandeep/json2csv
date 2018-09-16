@@ -1,0 +1,45 @@
+    {
+        "name": {
+            "fname": "",
+            "lname": ""
+        },
+        "address": {
+            "addressline1": "",
+            "addressline2": "",
+            "city": "",
+            "state": "",
+            "pincode": ""
+        },
+        "contact": {
+            "mobile": {
+                "coutrycode": "",
+                "number": ""
+            },
+            "home": {
+                "citycode": "",
+                "areacode": "",
+                "local": ""
+            }
+        },
+        "bankdetails": [
+            {
+                "bankname1": "",
+                "opendays": [],
+                "minbalance": ""
+            },
+            {
+                "bankname2": "",
+                "opendays": []
+            }
+        ],
+        "school": "",
+        "college1": "",
+        "selected options": [],
+        "yearwiseupdate": [
+            {
+                "2016": "",
+                "2017": "",
+                "2018": ""
+            }
+        ]
+    }

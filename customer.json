@@ -1,0 +1,47 @@
+[
+    {
+        "name":
+                {
+                    "fname":"Sayandeep",
+                    "lname":"Ray"     
+                },
+         "address":
+                    {
+                        "addressline1":"1B Arunachal",
+                        "addressline2":"Rahara",
+                        "locality":"Khardaha",
+                        "city":"Kolkata",
+                        "state":"West Bengal",
+                        "pincode":"700118"
+                    },
+         "contact":{
+                       "mobile":
+                                {
+                                    "coutrycode":"+91",
+                                    "number":"9831498430"
+                                },
+                       "home":
+                              {
+                                  "citycode":"033",
+                                  "areacode":"2568",
+                                  "local":"9746"
+                              } 
+                   },
+         "bankdetails":
+                       [
+                           {
+                               "bankname1":"HDFC",
+                               "branch1":"Rahara" 
+                           },
+                           {
+                               "bankname2":"SBI",
+                               "branch2":"Khardaha"
+                           }
+                       ],
+         "school":"Ramakrishna Mission",
+         "college1":"Durgapur Institute of Engineering",
+         "college2":"Jadavpur University",
+         "selected options":[2,4,6,2,3,1],
+         "yearwiseupdate":[{"2012":"Wipro","2013":"Wipro","2014":"Cognizant","2015":"Cognizant","2016":"Cognizant","2017":"Cognizant","2018":"Cognizant"}]             
+    }
+]

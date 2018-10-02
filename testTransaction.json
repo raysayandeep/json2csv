@@ -1,0 +1,121 @@
+[
+    {
+        "requestdata": {
+            "name": {
+                "first_name": "Sayan",
+                "middle_name": "Deep",
+                "last_name": "Ray"
+            },
+            "dob": {
+                "month": "04",
+                "day": "30",
+                "year": "1986"
+            },
+            "user_id": "sayandeep86",
+            "password": "sdr",
+            "email": "raysayandeep@gmail.com",
+            "primary_contact": 9831498430,
+            "selected_portfolio": 2,
+            "address": {
+                "addressline1": "1B Arunachal",
+                "addressline2": "Rahara",
+                "locality": "Khardaha",
+                "city": "Kolkata",
+                "state": "West Bengal",
+                "pincode": "700118"
+            },
+            "contact": {
+                "mobile": {
+                    "coutrycode": "+91",
+                    "number": "9831498430"
+                },
+                "home": {
+                    "citycode": "033",
+                    "areacode": "2568",
+                    "local": "9746"
+                }
+            },
+            "bankdetails": [
+                {
+                    "bank1": {
+                        "bankname": "HDFC",
+                        "branch": "Rahara",
+                        "opendays": [
+                            "Monday",
+                            "Tuesday",
+                            "Wednesday",
+                            "Thursday",
+                            "Friday"
+                        ],
+                        "minbalance": 5000
+                    },
+                    "bank2": {
+                        "bankname": "SBI",
+                        "branch": "Khardaha",
+                        "opendays": [
+                            "Tuesday",
+                            "Wednesday",
+                            "Thursday",
+                            "Friday",
+                            "Saturday"
+                        ],
+                        "minbalance": 1000
+                    }
+                }
+            ],
+            "school": "Ramakrishna Mission",
+            "college1": "Durgapur Institute of Engineering",
+            "college2": "Jadavpur University",
+            "selected options": [
+                2,
+                4,
+                6,
+                2,
+                3,
+                1
+            ],
+            "yearwiseupdate": [
+                {
+                    "2012": "Wipro",
+                    "2013": "Wipro",
+                    "2014": "Cognizant",
+                    "2015": "Cognizant",
+                    "2016": "Cognizant",
+                    "2017": "Cognizant",
+                    "2018": "Cognizant"
+                }
+            ]
+        },
+        "responsedata": {
+            "portfoliodata": {
+                "portfolio_detail_1": {
+                    "portfolio_number": "1",
+                    "min_investment_amount": 50000,
+                    "min_duration": 5,
+                    "anytimewithdraw": false,
+                    "return_interest": 9.5
+                },
+                "portfolio_detail_2": {
+                    "portfolio_number": "2",
+                    "min_investment_amount": 75000,
+                    "min_duration": 5,
+                    "anytimewithdraw": false,
+                    "return_interest": 10
+                },
+                "portfolio_detail_3": {
+                    "portfolio_number": "3",
+                    "min_investment_amount": 100000,
+                    "min_duration": 10,
+                    "anytimewithdraw": true,
+                    "return_interest": 11.5
+                }
+            },
+            "yeartodatedetails": {
+                "5yearmaxreturn": 10,
+                "10yearmaxreturn": 10,
+                "20yearmaxreturn": 15,
+                "25yearmaxreturn": 16
+            }
+        }
+    }
+]
